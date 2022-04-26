@@ -1,0 +1,41 @@
+body
+{
+  color: white;
+  background: #b577e5;
+}
+span
+{
+  font-size: 30px;
+}
+#camera , #result
+{
+  border: 2px dashed black;
+  width: 350px;
+  height: 300px; 
+}
+#result_emotion ,#result_emotion2  
+{
+  color: black;
+}
+.emotion_name
+{
+  font-size: 40px;
+}
+.emoji
+{
+  font-size:48px;
+}
+.heading{
+  font-size: 25px;
+  border-radius: 10px;
+  letter-spacing: 3px;
+  font-family: 'Courier New', Courier, monospace;
+}
+label{
+  font-size: 14px;
+  border-radius: 10px;
+  background-color: darkslategray;
+  padding: 6px;
+
+}
+
